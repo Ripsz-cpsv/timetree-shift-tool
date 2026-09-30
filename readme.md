@@ -1,6 +1,6 @@
 # TimeTree シフト自動取得 → Excel書き込みツール セットアップ手順書
 
-**対象スクリプト:** `timetree_shift.py`
+**対象スクリプト:** `timetree_auto.py`
 
 ---
 
